@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EsgtsApp20161024_Numeros_De_Telefones_Favoritos</string>
+    <string name="str_etEntrarTelefoneFavorito">exº 922123456</string>
+    <string name="str_btnEntrarTelefoneFavorito">Adicionar tel.</string>
+</resources>
